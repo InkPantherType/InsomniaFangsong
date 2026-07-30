@@ -20,16 +20,16 @@
 - **三字重**：Book / Demi / Bold。
 - **支持竖排**：保留 `vhea`/`vmtx` 与 GSUB `vert`/`vrt2`，竖排度量已校正。
 - **兼容性好**：TrueType（glyf）轮廓、非 CID 结构，可在 CorelDRAW 等软件正常显示中文。
-- **补上间隔号 ·**：原 HZ Socho 缺 `·`（U+00B7）与 `‧`（U+2027）；已用字体自带的仿宋中点补齐，随字重自动变粗。
+- **补上间隔号 ·**：原字体 HZ 宋朝缺 `·`（U+00B7）与 `‧`（U+2027）；已用字体自带的仿宋中点补齐，随字重自动变粗。
 - 其余非汉字（拉丁 / 希腊 / 西里尔 / 假名 / 符号 / 标点）沿用 HZ Socho，未改动。
 
 ## 字体特性
 
-- **全 GB2312 大陆字形**：原 HZ Socho 自带的约 3100 个日式（JIS）汉字已改为大陆形，另补齐 2238 个缺失的简体字；GB2312 一二级共 6763 字全部为国标字形。
+- **全 GB2312 大陆字形**：原 HZ 宋朝自带的约 3100 个日式（JIS）汉字已改为大陆形，另补齐 2238 个缺失的简体字；GB2312 一二级共 6763 字全部为国标字形。
 - **三字重**：Book / Demi / Bold（见下表）。
 - **支持竖排**：保留 `vhea` / `vmtx` 与 GSUB `vert` / `vrt2`，竖排度量已校正。
 - **兼容性好**：TrueType（glyf）轮廓、非 CID 结构，可在 CorelDRAW 等软件正常显示中文。
-- **补上间隔号 ·**：原 HZ Socho 缺 `·`（U+00B7）与 `‧`（U+2027）；已用字体自带的仿宋中点补齐，随字重自动变粗。
+- **补上间隔号 ·**：原 HZ 宋朝缺 `·`（U+00B7）与 `‧`（U+2027）；已用字体自带的仿宋中点补齐，随字重自动变粗。
 - 其余非汉字（拉丁 / 希腊 / 西里尔 / 假名 / 符号 / 标点）沿用 HZ Socho，未改动。
 
 ### 字重
@@ -58,7 +58,7 @@
 | 构建工具 | [KAGE engine](https://github.com/MihailJP/kage-engine) / Potrace | GPL-3.0 / GPL-2.0+（**仅构建工具，其代码不包含在字体文件内**） |
 
 整体而言，本字体依 **X11 许可（带字体嵌入例外）** 与上述自由条款发布，**不受 GPL 约束**
-——KAGE 引擎与 Potrace 只是生成轮廓的工具，字体文件不含其代码（此为对上游条款的善意理解，非法律意见；HZ Socho 本身亦是如此生成并以 X11 发布）。
+——KAGE 引擎与 Potrace 只是生成轮廓的工具，字体文件不含其代码（此为对上游条款的善意理解，非法律意见；HZ 宋朝本身亦是如此生成并以 X11 发布的）。
 
 ### ✅ 允许
 
@@ -75,7 +75,7 @@
 
 ## 致谢
 
-- [HZ Socho](https://github.com/MihailJP/minchovariant) — MihailJP（基底字体）
+- [HZ 宋朝/HZ Socho](https://github.com/MihailJP/minchovariant) — MihailJP（基底字体）
 - [字形维基 GlyphWiki](https://glyphwiki.org) — 提供汉字数据，及其贡献者
 - [KAGE engine](https://github.com/MihailJP/kage-engine) — 字形渲染引擎（构建工具）
 - Computer Modern Unicode — Andrey V. Panov（拉丁 / 希腊 / 西里尔）
