@@ -5,6 +5,9 @@
 
 > 这款字体创作于我失眠之时，故名「不寐仿宋」。
 
+<img width="1677" height="938" alt="不寐仿宋演示图" src="https://github.com/user-attachments/assets/5b295c03-0d24-4c2d-8027-1f6f3dbd235b" />
+
+
 ## 简介
 
 [HZ 宋朝/HZ Socho](https://github.com/MihailJP/minchovariant) 是由 [字形维基（GlyphWiki）](https://glyphwiki.org) 的汉字数据生成的开源仿宋体（宋朝体）。其汉字以**日本字形**为准，很多字不符合大陆书写规范。
