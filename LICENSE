@@ -1,0 +1,133 @@
+不寐仿宋 / Insomnia FangSong — License and Attributions
+========================================================
+
+Copyright (c) 2026 Alexander Tseng.
+
+Insomnia FangSong is a free/libre font derived from HZ Socho
+(https://github.com/MihailJP/minchovariant) and from the CJK glyph data of
+GlyphWiki (https://glyphwiki.org). It inherits the license terms of its
+upstream sources. In short: you may use, copy, modify, merge, publish,
+distribute, and sell copies of this font, commercially or non-commercially,
+provided that this notice and all the notices below are preserved. THE FONT
+IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+What was changed in Insomnia FangSong
+-------------------------------------
+* Added simplified-Chinese hanzi missing from HZ Socho, and converted the
+  existing GB2312 hanzi from Japanese (JIS) glyph forms to mainland-China
+  (GB / 新字形) forms. All Chinese hanzi are rendered from GlyphWiki's
+  mainland (-g) regional data via the KAGE engine, then traced to outlines.
+* Renamed to 不寐仿宋 / Insomnia FangSong; converted to TrueType (glyf) for
+  broad application compatibility; fixed vertical metrics; reorganised the 
+  naming into a Book / Demi / Bold family.
+* Non-Chinese glyphs (Latin, Greek, Cyrillic, kana, symbols, punctuation)
+  are carried over unchanged from HZ Socho.
+
+========================================================================
+1. Overall terms — X11 License (with font-embedding exception)
+========================================================================
+Insomnia FangSong may be used in any way, including but not limited to
+copying, modifying, distributing, or selling copies, as long as you follow
+the terms of the X11 License with font embedding exception shown below
+(inherited from Computer Modern Unicode and HZ Socho). This permission is
+granted regardless of commerciality.
+
+Andrey V. Panov (C) 2005. All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, and/or sell copies of the
+Software, and to permit persons to whom the Software is furnished to do so,
+provided that the above copyright notice(s) and this permission notice appear
+in all copies of the Software and that both the above copyright notice(s) and
+this permission notice appear in supporting documentation.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS.
+IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS NOTICE BE
+LIABLE FOR ANY CLAIM, OR ANY SPECIAL INDIRECT OR CONSEQUENTIAL DAMAGES, OR
+ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER
+IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+Except as contained in this notice, the name of a copyright holder shall not
+be used in advertising or otherwise to promote the sale, use or other
+dealings in this Software without prior written authorization of the
+copyright holder.
+
+As a special exception, if you create a document which uses these fonts, and
+embed these fonts or unaltered portions of these fonts into the document,
+these fonts do not by themselves cause the resulting document to be covered
+by the X11 License. This exception does not however invalidate any other
+reasons why the document might be covered by the X11 License. If you modify
+these fonts, you may extend this exception to your version of the fonts, but
+you are not obligated to do so. If you do not wish to do so, delete this
+exception statement from your version.
+
+========================================================================
+2. GlyphWiki data (Chinese hanzi skeletons)
+========================================================================
+See https://en.glyphwiki.org/wiki/GlyphWiki:License
+
+The glyphs registered at GlyphWiki, as well as the articles, can be freely
+used by anyone. Reuse of this data, such as reproduction or modification of
+the glyphs, is permitted. There are no specific restrictions with regards to
+displaying the author's name. Reuse of GlyphWiki data as the basis for a new
+font, or direct usage of fonts and glyphs copied from GlyphWiki in published
+work is allowed. All glyphs at GlyphWiki are free to any use and come with no
+warranty. (Copyright 2009 GlyphWiki Project.)
+
+========================================================================
+3. Computer Modern Unicode (Latin / Greek / Cyrillic)
+========================================================================
+Covered by the X11 License in section 1 above.
+Andrey V. Panov (C) 2005. See
+http://canopus.iacp.dvo.ru/~panov/cm-unicode/license.html
+
+========================================================================
+4. M+ fonts (some symbols)          (C) Coji Morishita
+========================================================================
+These fonts are free software. Unlimited permission is granted to use, copy,
+and distribute them, with or without modification, either commercially or
+noncommercially. THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
+See http://mplus-fonts.sourceforge.jp/mplus-outline-fonts/index.html#license
+
+========================================================================
+5. GL-Antique (some symbols)
+========================================================================
+Same terms as the M+ fonts above.
+See http://gutenberg.osdn.jp/ja/license.html
+
+========================================================================
+6. Build tools — KAGE engine (GPL-3.0) and Potrace (GPL-2.0+)
+========================================================================
+The Chinese hanzi were produced by rendering GlyphWiki's freely-licensed
+skeleton data (section 2) into outlines with the KAGE engine
+(https://github.com/MihailJP/kage-engine, GNU GPL v3) and then tracing the
+result with Potrace (https://potrace.sourceforge.net/, GNU GPL v2+).
+
+These are BUILD TOOLS. None of their program code is contained in or
+distributed with the font files; the font stores only the resulting glyph
+outlines, which are derived from the free GlyphWiki data, not from the tools'
+source code. On this basis this font is distributed under the permissive terms
+above (sections 1-5) rather than the GPL. This is the same position taken by
+HZ Socho itself, which is likewise generated by the KAGE engine and Potrace
+from GlyphWiki data yet released under the X11 terms above by the very author
+of this KAGE-engine fork. (Potrace additionally states that its tracing output
+is not a derivative work of Potrace.)
+
+Note: this is a good-faith reading of the upstream terms, not legal advice.
+If you redistribute the *build scripts* together with a copy of the KAGE
+engine or Potrace, keep those tools under their own GPL licenses.
+
+========================================================================
+Attributions
+========================================================================
+* HZ Socho — MihailJP <mihailjp@gmail.com>
+* GlyphWiki contributors (including MihailJP)
+* Computer Modern Unicode — Andrey V. Panov
+* M+ fonts — Coji Morishita
+* GL-Antique
+* Simplified-Chinese adaptation & Insomnia FangSong build — Alexander Tseng
