@@ -40,6 +40,12 @@
 | Demi | 中粗 | 600 |
 | Bold | 粗 | 700 |
 
+<img width="2043" height="2627" alt="横排" src="https://github.com/user-attachments/assets/a8b07e20-0807-436b-9935-c9103fbf818d" />
+
+<img width="1998" height="2031" alt="竖排" src="https://github.com/user-attachments/assets/e51d28f0-fef3-4526-aa9b-6681f4809c86" />
+
+
+
 ### 开源许可列表
 
 本字体依 **X11 许可（带字体嵌入例外）** 与下列自由条款发布。完整条款与全部声明见仓库中的 [`LICENSE`](LICENSE) 文件。
