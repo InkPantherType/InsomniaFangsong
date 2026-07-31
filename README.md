@@ -32,13 +32,9 @@
 | Bold | 700 |
 
 ### 演示
-<img width="2043" height="2627" alt="横排" src="https://github.com/user-attachments/assets/f006a5a3-3b7a-4830-955c-17dc7918011a" />
+<img width="2043" height="2627" alt="横排" src="https://github.com/user-attachments/assets/407719f1-d321-4223-8e2f-5c723968e09c" />
 
-
-<img width="1998" height="2031" alt="竖排" src="https://github.com/user-attachments/assets/b77189b3-8903-4b06-8cbd-d75831eb7ce9" />
-
-
-
+<img width="1998" height="2031" alt="竖排" src="https://github.com/user-attachments/assets/51b1757d-065a-4b94-bb60-8f7b57892ee0" />
 
 ### 开源许可列表
 
