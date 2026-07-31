@@ -10,7 +10,7 @@
 
 ## 简介
 
-[HZ 宋朝/HZ Socho](https://github.com/MihailJP/minchovariant) 是由 [字形维基（GlyphWiki）](https://glyphwiki.org) 的汉字数据生成的开源仿宋体（宋朝体）。其汉字以**日本字形**为准，不符合中国大陆书写规范。
+[HZ 宋朝/HZ Socho](https://github.com/MihailJP/minchovariant) 是由 [字形维基（GlyphWiki）](https://glyphwiki.org) 的汉字数据生成的开源仿宋体（宋朝体）；其汉字以**日本字形**为准，不符合中国大陆书写规范。
 
 《不寐仿宋》在保留原有仿宋风格的基础上，将简体中文部分调整为大陆标准。
 
