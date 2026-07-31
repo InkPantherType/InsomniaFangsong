@@ -42,17 +42,17 @@
 
 ### 开源许可列表
 
-本字体依 **X11 许可（带字体嵌入例外）** 与下列自由条款发布。完整条款与全部声明见仓库中的 [`LICENSE`](LICENSE) 文件。
+本字体依 **X11 许可（带字体嵌入例外）** 及下列自由条款发布。完整条款与全部声明见仓库中的 [`LICENSE`](LICENSE) 文件。
 
 | 组成部分 | 来源 | 许可协议 |
 |---|---|---|
-| 汉字字形数据 | [字形维基 GlyphWiki](https://glyphwiki.org) | GlyphWiki 自由许可（可任意使用、复制、修改、再分发，含商用） |
+| 汉字字形数据 | [字形维基 GlyphWiki](https://glyphwiki.org) | GlyphWiki 自由许可（可任意使用、复制、修改、再分发，含商业用途） |
 | 拉丁 / 希腊 / 西里尔 | Computer Modern Unicode | **X11 许可**（带字体嵌入例外） |
-| 部分符号 | M+ fonts / GL-Antique | 免费自由许可（可任意使用、复制、分发） |
-| 构建工具 | [KAGE engine](https://github.com/MihailJP/kage-engine) / Potrace | GPL-3.0 / GPL-2.0+（**仅构建工具，其代码不包含在字体文件内**） |
+| 部分符号 | M+ fonts / GL-Antique | 自由许可（可任意使用、复制、分发） |
+| 构建工具 | [KAGE engine](https://github.com/MihailJP/kage-engine) / Potrace | GPL-3.0 / GPL-2.0+（**仅作为构建工具，其代码不包含在字体文件中**） |
 
-整体而言，本字体依 **X11 许可（带字体嵌入例外）** 与上述自由条款发布，**不受 GPL 约束**
-——KAGE 引擎与 Potrace 只是生成轮廓的工具，字体文件不含其代码（此为对上游条款的善意理解，非法律意见；HZ 宋朝本身亦是如此生成并以 X11 发布的）。
+总体而言，本字体依 **X11 许可（带字体嵌入例外）** 及上述自由条款发布，**不受 GPL 约束**。  
+KAGE 引擎与 Potrace 仅用于生成轮廓，字体文件本身并不包含其代码。（以上为对上游条款的善意理解，不构成法律意见；HZ 宋朝亦采用类似方式生成，并以 X11 许可发布。）
 
 ### ✅ 允许
 
