@@ -33,7 +33,8 @@
 
 <img width="2043" height="2627" alt="横排" src="https://github.com/user-attachments/assets/a8b07e20-0807-436b-9935-c9103fbf818d" />
 
-<img width="1998" height="2031" alt="竖排" src="https://github.com/user-attachments/assets/e51d28f0-fef3-4526-aa9b-6681f4809c86" />
+<img width="1998" height="2031" alt="竖排" src="https://github.com/user-attachments/assets/b77189b3-8903-4b06-8cbd-d75831eb7ce9" />
+
 
 
 
