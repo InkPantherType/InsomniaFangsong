@@ -74,7 +74,7 @@ KAGE 引擎与 Potrace 仅用于生成轮廓，字体文件本身并不包含其
 - [KAGE engine](https://github.com/MihailJP/kage-engine) — 字形渲染引擎（构建工具）
 - Computer Modern Unicode — Andrey V. Panov（拉丁 / 希腊 / 西里尔）
 - M+ fonts — Coji Morishita；GL-Antique（部分符号）
-- [飞花宋体 FlyFlowerSong](https://github.com/Skr-ZERO/FlyFlowerSong) — 本 README 的排版结构参考了该项目；标点方案亦与其做过对照
+- [飞花宋体 FlyFlowerSong](https://github.com/Skr-ZERO/FlyFlowerSong) — 本 README 的排版结构参考了该项目；标点方案亦曾与其对照，但未采用其标点符号
 
 
 ---
